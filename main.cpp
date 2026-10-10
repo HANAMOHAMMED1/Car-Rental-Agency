@@ -265,8 +265,8 @@ int main(){
     a.addClient( cm2 );
     a.addClient( cm3 );
     
-    Employee e1("Hana", "Alsaleh", 21, "Cyber Security Analyst", 12000);
-    Employee e2("Leen", "Alsaleh", 20, "IT Support Engineer", 10000);
+    Employee e1("Hana", "Ahmed", 21, "Cyber Security Analyst", 12000);
+    Employee e2("Leen", "Khalid", 20, "IT Support Engineer", 10000);
    
     a.addEmployee( e1 );
     a.addEmployee( e2 );
